@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+         Mario Vanegas
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
