@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-         Mario Vanegas
+         Mario Vanegas-Aplicación con SSR
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
